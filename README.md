@@ -30,9 +30,6 @@
   <br>
 </div>
 
-## Github stats
-![TwooTwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwooTwoo&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwooTwoo&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)](https://github.com/TwooTwoo)
 
 
