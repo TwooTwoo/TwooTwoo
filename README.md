@@ -1,4 +1,4 @@
-cc![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=TwooTwoo&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=TwooTwoo&fontSize=40)
 # 📚 Currently Studying
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
