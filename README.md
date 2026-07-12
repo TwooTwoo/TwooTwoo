@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=TwooTwoo&fontSize=40)
+cc![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=TwooTwoo&fontSize=40)
 # 📚 Currently Studying
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -28,9 +28,6 @@
     <div>
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
     </div>
     <br>
     <!-- CI/CD -->
