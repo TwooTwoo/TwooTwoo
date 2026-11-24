@@ -45,4 +45,7 @@
     </div>
     <br>
     <img src="./profile-3d-contrib/profile-night-green.svg">
+    <a href="https://velog.io/@twootwoo12/posts">
+    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Tech Blog">
+</a>
 </div>
